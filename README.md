@@ -6,9 +6,9 @@ This project analyzes Malaysia's Wholesale and Retail Trade data using SQL and s
 
 ## Data Source
 
--Department of Statistics Malaysia (DOSM) Data.gov.my – Wholesale & Retail Trade by Division (2 digit)
--License: CC BY 4.0
--Data period: January 2018 – June 2026
+- Department of Statistics Malaysia (DOSM) Data.gov.my – Wholesale & Retail Trade by Division (2 digit)
+- License: CC BY 4.0
+- Data period: January 2018 – June 2026
 
 Note: The original dataset can be downloaded from the official source
 
