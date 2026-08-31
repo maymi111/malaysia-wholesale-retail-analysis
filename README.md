@@ -23,7 +23,7 @@ Note: The original dataset can be downloaded from the official source
 
 ## Dashboard
 
-![Malaysia Wholesale & Retail Trade Dashboard](dashboard/Malaysia_Wholesale_Retail_Dashboard.png)
+![Malaysia Wholesale & Retail Trade Dashboard](./Wholesale_Retail_Dashboard.png)
 
 ## Tools
 
@@ -41,5 +41,6 @@ Note: The original dataset can be downloaded from the official source
 
 ## Files
 
-- Excel Dashboard – `Malaysia_Wholesale_Retail_Dashboard.xlsx`
-- PDF Dashboard – `Malaysia_Wholesale_Retail_Dashboard.pdf`
+* [SQL Queries](./SQL/analysis.sql)
+* [Spreadsheet Dashboard](./Wholesale_Retail_Analysis.xlsx)
+* [PDF Dashboard](./Wholesale_Retail_Dashboard.pdf)
