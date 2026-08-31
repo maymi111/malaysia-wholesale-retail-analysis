@@ -40,7 +40,7 @@ Note: The original dataset can be downloaded from the official source
 - Wholesale and Retail Trade contributed the majority of 2025 sales.
 
 ## Files
-
-* [SQL Queries](./SQL/analysis.sql)
+analysis.sql
+* [SQL Queries](./analysis.sql)
 * [Spreadsheet Dashboard](./Wholesale_Retail_Analysis.xlsx)
 * [PDF Dashboard](./Wholesale_Retail_Dashboard.pdf)
