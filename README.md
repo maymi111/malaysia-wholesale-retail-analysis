@@ -4,11 +4,15 @@
 
 This project analyzes Malaysia's Wholesale and Retail Trade data using SQL and spreadsheet analysis to identify sales trends, growth performance, division contribution, and volume index movements.
 
-## Data Source
+##  Dataset
 
-- Department of Statistics Malaysia (DOSM) Data.gov.my – Wholesale & Retail Trade by Division (2 digit)
-- License: CC BY 4.0
-- Data period: January 2018 – June 2026
+**Dataset:** Wholesale & Retail Trade by Division (2 digit)
+
+**Source:** [Malaysia Government Data - Department of Statistics Malaysia (DOSM)](https://open.dosm.gov.my/data-catalogue/iowrt_2d)
+
+**Period:** January 2018 – June 2026
+
+**License:** CC BY 4.0 
 
 Note: The original dataset can be downloaded from the official source
 
@@ -39,7 +43,7 @@ Note: The original dataset can be downloaded from the official source
 - Wholesale and Retail Trade contributed the majority of 2025 sales.
 
 ## Files
-analysis.sql
+
 * [SQL Queries](./analysis.sql)
 * [Spreadsheet Dashboard](./Wholesale_Retail_Analysis.xlsx)
 * [PDF Dashboard](./Wholesale_Retail_Dashboard.pdf)
